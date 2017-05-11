@@ -1,2 +1,4 @@
-# xIS211---Popcornia-Movie-Rental-Prototype
-A movie rental prototype that emphasizes on Databases design and OBDC [College Project].
+# Popcornia-Movie-Rental-Prototype[C#/MSSQL]
+A movie rental prototype that emphasizes on Databases design and OBDC [College Final Project].
+
+
